@@ -43,4 +43,5 @@ Feel free to explore folders for:
 
 **Linjun Li** – UX/UI Designer  
 🎨 Focus: Accessibility-first, responsive UI, developer collaboration  
-📩 Contact: [Your email or portfolio link here]
+📩 Contact: [designwithlin@gmail.com]
+🔗 Website:designwithlin.com
