@@ -2,6 +2,11 @@
 
 This project showcases the responsive UI design for the Water Fact Cards landing page, part of the Save the Water™  educational platform
 
+## 🌐 Live Preview
+
+You can view the deployed Water Fact Landing Page here:  
+👉 [Visit Live Site](https://savethewater.org/water-facts-list/)
+
 ## 📌 Includes
 - Responsive layout: desktop, tablet, and mobile
 - 8px-based spacing system
