@@ -23,6 +23,8 @@ WordPress developer team for integration and front-end reference.
 
 📁 figma-export/
 → PNG/PDF exports from Figma (water fact cards, layouts, and system visuals).
+## 🔗 Figma Preview  
+[View Prototype in Figma](https://www.figma.com/design/IT9kAQPWrfnevmvuKfw1Al/Water-Fact?node-id=0-1&t=Uhq6yaVnmoi2rUQG-1)  
 
 📁 handoff-docs/
 → Spacing system breakdowns, annotated design screenshots, and developer-ready specs.
