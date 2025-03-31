@@ -13,9 +13,9 @@ This project showcases the responsive UI design for the Water Fact Cards landing
 
 To ensure security and controlled access, all project-related design files, images, and documentation are hosted in our shared Google Drive folders:
 
-- 🔗 [Design Files (Figma exports, screenshots)](https://drive.google.com/drive/folders/YOUR-DESIGN-FOLDER-ID)
-- 🔗 [Water Fact Card Assets](https://drive.google.com/drive/folders/YOUR-CARD-ASSETS-ID)
-- 🔗 [Handoff Documents (PDFs, Specs)](https://drive.google.com/drive/folders/YOUR-HANDOFF-ID)
+- 🔗 [Design Files (Figma exports, screenshots)and Water Fact Card Assets](https://drive.google.com/drive/folders/1b6yukloR2aVMwMyxAEZ5zTCLDzS3Xs4p?usp=drive_link)
+- 🔗 [Design content from Education and Publishing team](https://drive.google.com/drive/folders/146i9R8JIIPWjFMqOX0EJ77skz3mNdPQo?usp=drive_link)
+- 🔗 [Handoff Documents (PDFs, Specs)](https://drive.google.com/file/d/1-nT4QSbE4xyuyNyMjv-biLgVhqRD_aKK/view?usp=sharing)
 
 > ⚠️ Access is restricted to collaborators within the organization. Please request access if needed.
 
