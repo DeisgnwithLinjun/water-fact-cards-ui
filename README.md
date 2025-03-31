@@ -6,6 +6,7 @@ This project showcases the responsive UI design for the Water Fact Cards landing
 
 You can view the deployed Water Fact Landing Page here:  
 👉 [Visit Live Site](https://savethewater.org/water-facts-list/)
+_(Right-click or Cmd/Ctrl + click to open in a new tab)_
 
 ## 📌 Includes
 - Responsive layout: desktop, tablet, and mobile
