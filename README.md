@@ -9,8 +9,15 @@ This project showcases the responsive UI design for the Water Fact Cards landing
 - Color & typography tokens
 - Developer handoff assets
 
-## 📁 Assets
-Browse the `/assets` and `/figma-export` folders for design files and handoff docs.
+## 📁 Project Assets (Hosted on Google Drive)
+
+To ensure security and controlled access, all project-related design files, images, and documentation are hosted in our shared Google Drive folders:
+
+- 🔗 [Design Files (Figma exports, screenshots)](https://drive.google.com/drive/folders/YOUR-DESIGN-FOLDER-ID)
+- 🔗 [Water Fact Card Assets](https://drive.google.com/drive/folders/YOUR-CARD-ASSETS-ID)
+- 🔗 [Handoff Documents (PDFs, Specs)](https://drive.google.com/drive/folders/YOUR-HANDOFF-ID)
+
+> ⚠️ Access is restricted to collaborators within the organization. Please request access if needed.
 
 ## 📂 To Be Used By
 WordPress developer team for integration and front-end reference.
