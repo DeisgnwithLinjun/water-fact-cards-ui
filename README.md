@@ -10,7 +10,7 @@ This project showcases the responsive UI design for the Water Fact Cards landing
 - Developer handoff assets
 
 ## 📁 Project Assets (Hosted on Google Drive)
-
+## 🧩 What’s Included
 To ensure security and controlled access, all project-related design files, images, and documentation are hosted in our shared Google Drive folders:
 
 - 🔗 [Design Files (Figma exports, screenshots)and Water Fact Card Assets](https://drive.google.com/drive/folders/1b6yukloR2aVMwMyxAEZ5zTCLDzS3Xs4p?usp=drive_link)
@@ -21,12 +21,6 @@ To ensure security and controlled access, all project-related design files, imag
 
 ## 📂 To Be Used By
 WordPress developer team for integration and front-end reference.
-
-## 🧩 What’s Included
-📁 assets/
-├── ui-mockups/                → Full-screen designs of desktop, tablet, and mobile versions.
-├── gifs/                      → Interaction demos and scrolling behavior.
-└── color-typography-system/   → Visual specs of color palette and fonts used.
 
 📁 figma-export/
 → PNG/PDF exports from Figma (water fact cards, layouts, and system visuals).
