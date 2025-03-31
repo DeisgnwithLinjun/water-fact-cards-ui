@@ -62,15 +62,6 @@ WordPress developer team for integration and front-end reference.
 
 ---
 
-## 📬 Feedback & Updates
-
-This repo is part of a broader design system initiative for Save the Water™.  
-Feel free to [open an issue](https://github.com/yourname/repo/issues) for suggestions or improvements.
-
----
-
-© 2025 Linjun Li | Save the Water™ – UX/UI Contribution
-
 ## 🌐 Tech/Platform Consideration
 
 This design is planned to be integrated into a **WordPress-based** site. Files and layout were organized for easy developer handoff and responsive implementation.
@@ -88,3 +79,13 @@ Feel free to explore folders for:
 🎨 Focus: Accessibility-first, responsive UI, developer collaboration  
 📩 Contact: [designwithlin@gmail.com]
 🔗 Website:designwithlin.com
+
+
+## 📬 Feedback & Updates
+
+This repo is part of a broader design system initiative for Save the Water™.  
+Feel free to [open an issue](https://github.com/yourname/repo/issues) for suggestions or improvements.
+
+---
+
+© 2025 Linjun Li | Save the Water™ – UX/UI Contribution
